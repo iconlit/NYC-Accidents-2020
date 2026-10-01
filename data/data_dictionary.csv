@@ -1,0 +1,30 @@
+Column Name,Description
+CRASH DATE,Date on which the collision occurred.
+CRASH TIME,Time of day at which the collision occurred (24-hour format).
+BOROUGH,Borough where the collision occurred (Bronx / Brooklyn / Manhattan / Queens / Staten Island).
+ZIP CODE,Postal ZIP code of the collision location.
+LATITUDE,Latitude coordinate of the collision location (WGS84 decimal degrees).
+LONGITUDE,Longitude coordinate of the collision location (WGS84 decimal degrees).
+LOCATION,Combined latitude and longitude pair for the collision location.
+ON STREET NAME,Name of the street on which the collision occurred.
+CROSS STREET NAME,Name of the nearest cross street to the collision location.
+OFF STREET NAME,Address or name of the off-street location (e.g. parking lot) where the collision occurred; used when no on-street name is available.
+NUMBER OF PERSONS INJURED,Total number of people injured in the collision (pedestrians + cyclists + motorists).
+NUMBER OF PERSONS KILLED,Total number of people killed in the collision (pedestrians + cyclists + motorists).
+NUMBER OF PEDESTRIANS INJURED,Number of pedestrians injured in the collision.
+NUMBER OF PEDESTRIANS KILLED,Number of pedestrians killed in the collision.
+NUMBER OF CYCLIST INJURED,Number of cyclists injured in the collision.
+NUMBER OF CYCLIST KILLED,Number of cyclists killed in the collision.
+NUMBER OF MOTORIST INJURED,Number of motorists (drivers and passengers) injured in the collision.
+NUMBER OF MOTORIST KILLED,Number of motorists (drivers and passengers) killed in the collision.
+CONTRIBUTING FACTOR VEHICLE 1,Primary factor contributing to the collision for vehicle 1 (e.g. driver inattention/distraction; failure to yield right-of-way).
+CONTRIBUTING FACTOR VEHICLE 2,Factor contributing to the collision for vehicle 2 (if applicable).
+CONTRIBUTING FACTOR VEHICLE 3,Factor contributing to the collision for vehicle 3 (if applicable).
+CONTRIBUTING FACTOR VEHICLE 4,Factor contributing to the collision for vehicle 4 (if applicable).
+CONTRIBUTING FACTOR VEHICLE 5,Factor contributing to the collision for vehicle 5 (if applicable).
+COLLISION_ID,Unique record identifier for each collision; serves as the primary key of the table.
+VEHICLE TYPE CODE 1,Type of vehicle 1 involved in the collision (e.g. Sedan; Station Wagon/Sport Utility Vehicle; Taxi).
+VEHICLE TYPE CODE 2,Type of vehicle 2 involved in the collision (if applicable).
+VEHICLE TYPE CODE 3,Type of vehicle 3 involved in the collision (if applicable).
+VEHICLE TYPE CODE 4,Type of vehicle 4 involved in the collision (if applicable).
+VEHICLE TYPE CODE 5,Type of vehicle 5 involved in the collision (if applicable).

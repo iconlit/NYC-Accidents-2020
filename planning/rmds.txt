@@ -1,0 +1,9 @@
+identifying accident hotspots - traffic management agencies
+investigate accidents,identifying high risk locations - police/traffic enforcement
+determine where crashes happen mostly to postion ambulances and emergency resources - emergency medical services
+
+analyze accidents frequency,severity and insurance risk - insurance companies
+
+study causes,demogrpahics,locations,time of day,effects - research 
+
+identifying risky routes and driving patterns - transport companies

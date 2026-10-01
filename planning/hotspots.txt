@@ -1,0 +1,28 @@
+used geopandas with the datasets location,longitude,latitude to fill in some of the missing boroughs i was able to add 21176 new values with this 
+
+ borough                        49,140 --- original 
+ borough                        70,316 --- cleaned 
+
+ missing values before 25,741
+ missing values after filling is  4,565
+
+ so after the new borough values make uo 92% of the expected values
+
+ converted each crash's latitude and longitude into a projected coordinate system (NY State Plane, in feet). I then ran DBSCAN clustering, which groups crashes that lie within 300 feet of each other and requires at least 15 crashes to form a cluster. Crashes that didn't meet this were labeled noise. Each resulting cluster is a hotspot. For each one I summed crashes, injuries, deaths, and a weighted severity score, and labeled it with its most common street names. Hotspots were ranked by severity.
+
+BOROUGH
+1. will need the overview table of borough analysis
+2. drill down into monthly analysis per borough this is by num of crashes 
+3. drill down by borough analysis by hour
+4. leading cause of deaths in each borough
+5. contributing factor of acccidents in each borough
+
+what - why - so what - no what 
+
+
+
+
+
+
+
+one street name is missing 19437 values out of the original 74881 so it makes out 74.04 of the expected data 
