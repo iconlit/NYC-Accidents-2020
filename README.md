@@ -93,6 +93,8 @@ Collision frequency varied considerably throughout the period under review.
 - **Lowest activity:** Collision volumes were lowest between 2 AM and 4 AM.
 - **Monthly trend:** Crash volumes declined by approximately 71% between January and April, coinciding with COVID-19 lockdowns and changes in travel activity.
 
+![patterns](/images/borough_crashes_analysis.png)
+
 These patterns highlight the importance of considering time of day and wider circumstances when examining collision frequency. The midnight spike observed in every borough may also be affected by missing or default crash-time entries.
 
 ### 3. Contributing Factors
