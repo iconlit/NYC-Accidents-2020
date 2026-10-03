@@ -188,7 +188,6 @@ Distraction and following too closely together account for well over half of the
 - **Reported rather than confirmed causes:** Contributing factors reflect information recorded in collision reports and should not be treated as independently verified causes.
 - **Potential time-recording issues:** The higher number of collisions recorded at midnight may partly reflect missing or default time values.
 - **Small fatality counts:** Borough-level and road-level fatality totals are small and should be interpreted cautiously.
-- **Unverified injury data:** Staten Island's recorded injury count requires validation before drawing comparisons.
 
 ## Conclusion
 
@@ -196,7 +195,7 @@ The analysis of NYC's January to August 2020 motor vehicle collision records ide
 
 The hotspot analysis shows that crashes are concentrated on a small set of major highways, led by the Belt Parkway, with distraction and following too closely as the leading reported factors. Roads with the highest crash counts are not always those with the most severe outcomes, as the Grand Central Parkway and Cross Island Parkway illustrate.
 
-Although the findings provide useful insight into the city's collision patterns, incomplete data, unspecified contributing factors, and the exceptional circumstances of 2020 place important limits on interpretation. Natural next steps are normalizing road-level counts by traffic volume or road length, analyzing intersection-level hotspots, and validating the Staten Island injury figures.
+Although the findings provide useful insight into the city's collision patterns, incomplete data, unspecified contributing factors, and the exceptional circumstances of 2020 place important limits on interpretation.
 
 ## Tools and Technologies
 
