@@ -7,3 +7,47 @@ analyze accidents frequency,severity and insurance risk - insurance companies
 study causes,demogrpahics,locations,time of day,effects - research 
 
 identifying risky routes and driving patterns - transport companies
+
+
+this is nyc accident report for 2020 it covers accidents and its causes
+
+borough                        49,140 --- original 
+ borough                        70,316 --- cleaned 
+
+ missing values before 25,741
+ missing values after filling is  4,565
+
+ so after the new borough values make uo 92% of the expected values
+
+ 0   crash date                     74881 non-null  datetime64[us]
+ 1   crash time                     74881 non-null  datetime64[us]
+ 2   borough                        70316 non-null  str           
+ 3   zip code                       49134 non-null  float64       
+ 4   latitude                       68935 non-null  float64       
+ 5   longitude                      68935 non-null  float64       
+ 6   location                       68935 non-null  str           
+ 7   on street name                 55444 non-null  str           
+ 8   cross street name              35681 non-null  str           
+ 9   off street name                19437 non-null  str           
+ 10  number of persons injured      74881 non-null  int64         
+ 11  number of persons killed       74881 non-null  int64         
+ 12  number of pedestrians injured  74881 non-null  int64         
+ 13  number of pedestrians killed   74881 non-null  int64         
+ 14  number of cyclist injured      74881 non-null  int64         
+ 15  number of cyclist killed       74881 non-null  int64         
+ 16  number of motorist injured     74881 non-null  int64         
+ 17  number of motorist killed      74881 non-null  int64         
+ 18  contributing factor vehicle 1  74577 non-null  str           
+ 19  contributing factor vehicle 2  59285 non-null  str           
+ 20  contributing factor vehicle 3  6765 non-null   str           
+ 21  contributing factor vehicle 4  1851 non-null   str           
+ 22  contributing factor vehicle 5  523 non-null    str           
+ 23  collision_id                   74881 non-null  int64         
+ 24  vehicle type code 1            74246 non-null  str           
+ 25  vehicle type code 2            53638 non-null  str           
+ 26  vehicle type code 3            6424 non-null   str           
+ 27  vehicle type code 4            1771 non-null   str           
+ 28  vehicle type code 5            503 non-null    str           
+ 29  month                          74881 non-null  str           
+ 30  hour_of_collision              74881 non-null  int32         
+ 31  time_period                    74881 non-null  str 

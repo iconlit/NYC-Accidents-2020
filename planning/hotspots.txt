@@ -19,6 +19,12 @@ BOROUGH
 
 what - why - so what - no what 
 
+hotspot street name -
+1. will need the overview table of street name analysis
+2. drill down into monthly analysis per street name this is by num of crashes 
+3. drill down by street name analysis by hour
+4. leading cause of deaths in each street name
+5. contributing factor of acccidents in each street name
 
 
 
