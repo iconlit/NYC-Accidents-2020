@@ -80,12 +80,12 @@ The cleaned dataset contains 70,316 crashes with assigned boroughs. Brooklyn and
 | Queens        |     20,482 |    29.1% |      43 |      7,355 |                    35.9 |
 | Bronx         |     13,309 |    18.9% |      24 |      5,011 |                    37.6 |
 | Manhattan     |     11,229 |    16.0% |      17 |      3,497 |                    31.1 |
-| Staten Island |      2,580 |     3.7% |       8 |      108\* |                   4.2\* |
+| Staten Island |      2,580 |     3.7% |       8 |      1,087 |                    42.1 |
 | **Total**     | **70,316** | **100%** | **130** | **24,498** |                    34.8 |
 
-_\*Staten Island's injury count requires verification. Its injury rate (about 4 per 100 crashes) is roughly one-ninth of every other borough, which suggests a data or aggregation issue rather than a real difference._
-
 Brooklyn recorded the most crashes and injuries, while Queens recorded the most fatalities. These figures describe the distribution of recorded collisions and casualties, not individual road users' risk of being involved in a crash, as they are not adjusted for population, traffic volume, or road length.
+
+Staten Island recorded the fewest crashes (2,580, or 3.7% of the total), consistent with its smaller population. However, it had the highest injury rate per crash, at 42.1 injuries per 100 crashes. This suggests that crashes there were more likely to result in injury than in other boroughs. The data does not explain why. Possible factors, such as higher travel speeds or differences in how minor crashes are reported, would need further analysis to confirm.
 
 ### 2. Temporal Patterns
 
